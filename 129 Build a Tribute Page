@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="zh-cn">
+<head>
+	<meta charset="UTF-8">
+	<title>JOHN LEE RESUME</title>
+	<link rel="stylesheet" href="../129 Build a Tribute Page/bootstrap-3.3.5-dist/css/bootstrap.min.css" />
+	<!--<link rel="stylesheet" href="JOHN LEE.css" / > -->
+</head>
+<body>
+	<div class="container">
+		<div class="jumbotron">
+			<div class="row">
+				<div class="col-xs-12">
+					
+					<h1 class="text-center">JOHN LEE</h1>
+					<h2 class="text-center">HVAC Engineer Who Love Coding</h2>
+					<div class="thumbnail">
+						<img src="http://a1.qpic.cn/psb?/V10kRqA51i0KV0/IFbbP7QVLgfDs94umvi1IMhaSWXzjZzGGZ0ewkpy1C4!/b/dOEAAAAAAAAA&bo=egSAAgAAAAAFB9g!&rf=viewer_4 alt="">
+						<div class="caption text-center"><em> 2014.5 - flue Gas dedusting system construction drawing design for  6# blast  Feeding System, drawing with AutoCad, Sketch up and PS. </em></div>
+					</div>
+					<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+						<p></p>
+						<ul>
+							<li><span class="time">2016.7</span> - Engineering a dust-removal system for 8# blast furnace' Feeding System.</li>
+							<li><span class="time">2016.6</span> - Preliminary Design of HVAC for standered industrial park,Zhuzhou,Hunan</li>
+							<li><span class="time">2016.5</span> - Written a  conceptual design for a Heating System,which used to a seasonal heated pool, and design a HVAC system for natatorium.</li>
+							<li><span class="time">2016.1</span> - Preliminary Design of HVAC for special steel industrial park,SGIS Songshan Co.,Ltd</li>
+							<li><span class="time">2015.7</span> - Construction documents design of air-purification system for Chemical laboratory,Quality Inspection Center,SGIS Songshan Co.,Ltd </li>
+							<li><span class="time">2015.6</span> - conceptual design of HVAC for workers' club ,SGIS.</li>
+							<li><span class="time">2014.5</span> - flue Gas dedusting system construction drawing design for  6# blast  Feeding System.</li>
+							<li><span class="time">2013.7</span> - As a PM of air hose supplier，Shanghai.</li>
+						</ul>
+						<blockquote>
+							<p>Whatever you are, be a good one.</p>
+							<footer><cite>Abraham Lincoln</cite></footer>
+							
+						</blockquote>
+						<h5>Want to learn more about me? Please visiting my <a href="https://cn.linkedin.com/in/johnlee-yy" alt="Linkin">Linkin.</a></h5>
+					</div>
+				</div>
+			</div>
+		</div>
+		<footer>
+			
+			<hr>
+			<p class="text-center">copy right &copy; 2016,<a href="https://www.freecodecamp.cn/johnleecn">JOHNLEE</a></p>
+				
+			
+		</footer>
+	</div>
+</body>
+</html>
